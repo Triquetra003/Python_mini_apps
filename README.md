@@ -1,1 +1,1 @@
-# Python_mini_apps
+# Python mini apps
