@@ -24,8 +24,8 @@ This project is part of my [Python Mini Projects](../) collection.
 ### Steps
 
 ```bash
-git clone https://github.com/Triquetra003/Python_mini_apps.git
-cd Python_mini_apps/Calculator
+git clone https://github.com/Triquetra003/python-mini-apps.git
+cd python-mini-apps/Calculator
 python calculator.py
 ```
 ---
