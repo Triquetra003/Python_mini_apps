@@ -1,7 +1,7 @@
 import pandas as pd
 import datetime
 
-path='inventory-management-system/Inventory.xlsx'
+path='<path-of-file>/Inventory.xlsx'
 df=pd.read_excel(path)
 
 def view_inventory():
