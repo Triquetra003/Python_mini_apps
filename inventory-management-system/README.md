@@ -45,6 +45,8 @@ pip install pandas
 - Make sure `Inventory.xlsx` is in the same folder as your python script.
 - **Run the script:**
 ```bash
+git clone https://github.com/Triquetra003/python-mini-apps.git
+cd python-mini-apps/inventory-management-system
 python inventory-management.py
 ```
 - Follow the on-screen prompts to manage your inventory
