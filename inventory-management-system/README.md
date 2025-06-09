@@ -20,9 +20,9 @@ All changes are automatically saved to `Inventory.xlsx`.
 
 The Excel file uses the following columns:
 
-| Product ID | Name        | Category   | Quantity | Price | Last Updated       |
-|------------|-------------|------------|----------|-------|--------------------|
-|            |             |            |          |       |                    |
+| Product ID | Product Name | Category   | Quantity | Price | Last Updated       |
+|------------|--------------|------------|----------|-------|--------------------|
+|            |              |            |          |       |                    |
 
 ---
 
@@ -44,7 +44,8 @@ pip install pandas
 
 - Make sure `Inventory.xlsx` is in the same folder as your python script.
 - **Run the script:**
-```python inventory-management.py
+```bash
+python inventory-management.py
 ```
 - Follow the on-screen prompts to manage your inventory
 
