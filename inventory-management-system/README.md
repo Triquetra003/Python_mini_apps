@@ -43,6 +43,7 @@ pip install pandas
 ## How to Run
 
 - Make sure `Inventory.xlsx` is in the same folder as your python script.
+- Replace <path-of-file> with the actual path of file without replacing name of the excel sheets file.
 - **Run the script:**
 ```bash
 git clone https://github.com/Triquetra003/python-mini-apps.git
